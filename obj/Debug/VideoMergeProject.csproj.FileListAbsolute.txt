@@ -1,0 +1,13 @@
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\bin\Debug\VideoMergeProject.exe.config
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\bin\Debug\VideoMergeProject.exe
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\bin\Debug\VideoMergeProject.pdb
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.csproj.AssemblyReference.cache
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.Form1.resources
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.Properties.Resources.resources
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.csproj.GenerateResource.cache
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.csproj.CoreCompileInputs.cache
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.exe
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.pdb
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\bin\Debug\System.Management.Automation.dll
+C:\Users\roacc\OneDrive\Masaüstü\Video Merge Project\VideoMergeProject\obj\Debug\VideoMergeProject.csproj.CopyComplete
